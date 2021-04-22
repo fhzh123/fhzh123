@@ -1,4 +1,4 @@
-[![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/fhzh123/fhzh123)
+[![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123)](https://github.com/fhzh123/fhzh123)
 ### Hi there 👋
 <!--
 **fhzh123/fhzh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
