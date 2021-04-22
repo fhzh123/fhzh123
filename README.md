@@ -1,5 +1,8 @@
 [![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123)](https://github.com/fhzh123/fhzh123)
 ### Hi there 👋
+- I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
+- I'm currently learning Natural Language Processing
+- Ase me about fhzh@naver.com or fhzh123@cau.ac.kr
 <!--
 **fhzh123/fhzh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
