@@ -2,6 +2,7 @@
 ## Hi there 👋
 - I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
+- My interest is Neural Machine Translation, Language Modeling and NLP Augmentation.
 - As me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
@@ -24,7 +25,7 @@
 * [특별상] 엘리스 에듀첼린지, 카이스트
 * [우수상] 제1회 스포츠데이터 활용 경진대회, 국민체육진흥공단 & 한국프로농구연맹
 * [우수상] 제3회 경기 빅데이터 활용분석 경진대회, 경기콘텐츠진흥원
-* [장려상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠짆흥원
+* [장려상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠진흥원
 
 ### Competitions
 * "모션 키포인트 검출 AI 경진대회" (Dacon) 21th/156team (Top 14%) [[Link]](https://dacon.io/competitions/official/235701/leaderboard/)
