@@ -23,20 +23,25 @@
   * Sponsor: BrainKorea21(BK21)
   * Performance: 2 Publications and 2 Domestic Publications
   * Date: Mar. 2019 to Current
+  * Role: 번역 모델 개발
 * 인공지능을 활용한 다문화가정 언어교육
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Date: Jul. 2019 to Feb. 2020
+  * Role: 어린이들의 언어 수준 파악 및 언어 교육 내용 시각화
 * 건설작업장 안전 방해물 검출 시스템
   * Sponsor: National Research Foundation of Korea (NRF) and National IT Industry Promotion Agency (NIPA); 일반공동 연구지원사업
   * Performance: 2 Publications (Under Review)
   * Date: Mar. 2019 to Current
+  * Role: GAN을 활용한 Data Augmentation
 * 주행 환경 정적 객체 인지 AI 데이터
   * Sponsor: National Information Society Agency (NIA); 인공지능 학습용 데이터 구축 사업
   * Performance: 1 Domestic Publications (Under Review)
   * Date: Sep. 2020 to Dec. 2020
+  * Role: GAN을 활용한 Data Augmentation
 * 전시 관람객 예측 플랫폼
   * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드 실증지원 사업
   * Date: Dec. 2020 to Current
+  * Role: Natural Language Process 총괄
 
 ### Prize
 * [최우수상] Best Paper Award, 한국 정보 과학회
