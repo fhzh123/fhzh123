@@ -19,7 +19,8 @@
 * **KyoHoon Jin**, KyeongPil Kang, YunSung Cho and YoungBin Kim "통계적 구문분석과 Attention기반 심층 신경망을 통한 조선왕조실록 기계번역 (Machine Translation of the Annals of the Joseon Dynasty via the Statistical Parsing and Attention-based Deep Neural Network)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763306)
 
 ### Projects
-* Writing...
+* Korean Historical Document Translation and Analysis
+  * Testing
 
 ### Prize
 * [최우수상] Best Paper Award, 한국 정보 과학회
