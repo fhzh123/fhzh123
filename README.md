@@ -59,7 +59,7 @@
 * "AI야, 진짜 뉴스를 찾아줘!" (Dacon) 53th/192team (Top 28%) [[Link]](https://dacon.io/competitions/official/235658/overview/description)
 
 ### Skills
-* Python (3.6.9)
+* Python (3.6.9) <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 * PyTorch (1.8.0)
 
 <!--
