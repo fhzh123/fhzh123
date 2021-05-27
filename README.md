@@ -3,7 +3,7 @@
 - I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
 - My interest is Neural Machine Translation, Language Modeling and NLP Augmentation.
-- As me about fhzh@naver.com or fhzh123@cau.ac.kr
+- Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
 * KyeongPil Kang, **KyoHoon Jin**, SoYoung Yang, SuJin Jang, JaeGul Choo and YoungBin Kim "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation", 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) [[Link]](https://arxiv.org/abs/2104.05964)
@@ -27,7 +27,7 @@
 * 인공지능을 활용한 다문화가정 언어교육
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Date: Jul. 2019 to Feb. 2020
-  * Role: 어린이들의 언어 수준 파악 및 언어 교육 내용 시각화
+  * Role: 어린이들의 언어 수준 파악 알고리즘 개발 및 언어 교육 내용 시각화
 * 건설작업장 안전 방해물 검출 시스템
   * Sponsor: National Research Foundation of Korea (NRF) and National IT Industry Promotion Agency (NIPA); 일반공동 연구지원사업
   * Performance: 2 Publications (Under Review)
@@ -57,6 +57,10 @@
 * "제2회 컴퓨터 비전 학습 경진대회" (Dacon) 8th/215team (Top 4%) [[Link]](https://dacon.io/competitions/official/235697/overview/description)
 * "2020 인공지능 온라인 경진대회" (AI Hub) Task 7; Object Detection 3rd/400team | Total 43th/400team
 * "AI야, 진짜 뉴스를 찾아줘!" (Dacon) 53th/192team (Top 28%) [[Link]](https://dacon.io/competitions/official/235658/overview/description)
+
+### Skills
+* Python (3.6.9)
+* PyTorch (1.8.0)
 
 <!--
 **fhzh123/fhzh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
