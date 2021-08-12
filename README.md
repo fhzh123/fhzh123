@@ -6,6 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
+* **KyoHoon Jin**, JeongA Wi, EunJu Lee, ShinJin Kang, SooKyun Kim and YoungBin Kim "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting", 2021 Expert Systems with Applications (ESWA) [[Link]] (Soon Available)
 * KyeongPil Kang, **KyoHoon Jin**, SoYoung Yang, SuJin Jang, JaeGul Choo and YoungBin Kim "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation", 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) [[Link]](https://arxiv.org/abs/2104.05964)
 * JongBin Won, JongWoong Park, SooJin Jang, **KyoHoon Jin** and YoungBin Kim, "Automated Structural Damage Identification Using Data Normalization and 1-Dimensional Convolutional Neural Network", 2021 Applied Sciences [[Link]](https://www.mdpi.com/2076-3417/11/6/2610)
 * **KyoHoon Jin**, JeongA Wi, KyeongPil Kan and YoungBin Kim, "Korean Historical Documents Analysis with Improved Dynamic Word Embedding", 2020 Applied Sciences [[Link]](https://www.mdpi.com/2076-3417/10/21/7939/htm)
@@ -13,6 +14,9 @@
 * SooJin Jang, **KyoHoon Jin**, JunHyeok An and YoungBin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503)
 
 ### Domestic Publications
+* YeonOh Kang, **KyoHoon Jin**, KyeongPil Kang and YoungBin Kim "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)", 2021 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582940)
+* JunHo Lee, **KyoHoon Jin** and YoungBin Kim "고유명사를 활용한 Seed Lexicon 선정방식의 효율적인 다국어 임베딩 (Efficient Multilingual Embedding via Seed Lexicon Selection Method)", 2021 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582949)
+* Suji Jang, **KyoHoon Jin**, EunJu Lee and YoungBin Kim "한국어 악성 댓글 탐지 성능 향상을 위한 낮은 유사도 기반 Mixup 데이터 증강 방법 (Low Similarity-based Mixup Data Augmentation for Korean Hate Speech Detection)", 2021 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10582950)
 * JunHyeok An, **KyoHoon Jin**, JeongA Wi, ShinYoung Kim and YoungBin Kim "세로 합성곱과 시퀀스 정보를 활용한 한국 고문서 문자 인식 (Characters recognition of korean historical documents using vertical convolution and sequence representation)", 2020 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09874440)
 * SooJin Jang, **KyoHoon Jin**, KyeongPil Kang and YoungBin Kim "신경망과 비음수 행렬 분해 기반 대규모 이미지 데이터셋 군집화 기법 (Large-scale Image Dataset Clustering via Non-negative Matrix Factorization and Neural Network)", 2019 Korea Signal Processing Conference (KSPC) [[Link]](http://kspc2019.ieieweb.org/user/index.asp?ml1=3878)
 * YunSung Cho, KyeongPil Kang, **KyoHoon Jin** and YoungBin Kim "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763660)
