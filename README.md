@@ -27,7 +27,7 @@
   * Sponsor: BrainKorea21(BK21)
   * Performance: 2 Publications and 2 Domestic Publications
   * Date: Mar. 2019 to Current
-  * Role: 번역 모델 개발
+  * Role: Transformer기반의 Multi-task learning을 활용한 신경망 기계 번역 모델 개발 및 고도화
 * 인공지능을 활용한 다문화가정 언어교육
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Date: Jul. 2019 to Feb. 2020
@@ -36,16 +36,16 @@
   * Sponsor: National Research Foundation of Korea (NRF) and National IT Industry Promotion Agency (NIPA); 일반공동 연구지원사업
   * Performance: 2 Publications (Under Review)
   * Date: Mar. 2019 to Current
-  * Role: GAN을 활용한 Data Augmentation
+  * Role: YOLACT를 활용한 건설현장 Semantic Segmentation 및 CycleGAN을 활용한 Data Augmentation
 * 주행 환경 정적 객체 인지 AI 데이터
   * Sponsor: National Information Society Agency (NIA); 인공지능 학습용 데이터 구축 사업
-  * Performance: 1 Domestic Publications (Under Review)
+  * Performance: 1 Domestic Publications
   * Date: Sep. 2020 to Dec. 2020
-  * Role: GAN을 활용한 Data Augmentation
+  * Role: CycleGAN을 활용한 Data Augmentation
 * 전시 관람객 예측 플랫폼
   * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드 실증지원 사업
   * Date: Dec. 2020 to Current
-  * Role: Natural Language Process 총괄
+  * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
 
 ### Prize
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
