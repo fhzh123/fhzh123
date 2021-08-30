@@ -6,7 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
-* **KyoHoon Jin**, JeongA Wi, EunJu Lee, ShinJin Kang, SooKyun Kim and YoungBin Kim "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting", 2021 Expert Systems with Applications (ESWA) [[Link]] (Soon Available)
+* **KyoHoon Jin**, JeongA Wi, EunJu Lee, ShinJin Kang, SooKyun Kim and YoungBin Kim "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting", 2021 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417421011179)
 * KyeongPil Kang, **KyoHoon Jin**, SoYoung Yang, SuJin Jang, JaeGul Choo and YoungBin Kim "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation", 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) [[Link]](https://arxiv.org/abs/2104.05964)
 * JongBin Won, JongWoong Park, SooJin Jang, **KyoHoon Jin** and YoungBin Kim, "Automated Structural Damage Identification Using Data Normalization and 1-Dimensional Convolutional Neural Network", 2021 Applied Sciences [[Link]](https://www.mdpi.com/2076-3417/11/6/2610)
 * **KyoHoon Jin**, JeongA Wi, KyeongPil Kan and YoungBin Kim, "Korean Historical Documents Analysis with Improved Dynamic Word Embedding", 2020 Applied Sciences [[Link]](https://www.mdpi.com/2076-3417/10/21/7939/htm)
