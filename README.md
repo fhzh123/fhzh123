@@ -46,6 +46,14 @@
   * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드 실증지원 사업
   * Date: Dec. 2020 to Current
   * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
+* 작업현장 안전 데이터 사업
+  * Sponsor: Ministry of Science and ICT and National Information Society Agency (NIA); AI학습용 데이터 구축 사업
+  * Date: May. 2021 to Current
+  * Role: GNN을 활용한 Scene Graph생성
+* 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성
+  * Sponsor: Ministry of Science and ICT; 시스템반도체 융합전문인력 육성사업
+  * Date: Sep. 2021 to Current
+  * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
 
 ### Prize
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
