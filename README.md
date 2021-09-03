@@ -53,7 +53,7 @@
 * 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성
   * Sponsor: Ministry of Science and ICT; 시스템반도체 융합전문인력 육성사업
   * Date: Sep. 2021 to Current
-  * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
+  * Role: 반도체 관련 수업 수강
 
 ### Prize
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
