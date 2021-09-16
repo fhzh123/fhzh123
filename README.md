@@ -55,7 +55,7 @@
   * Date: Sep. 2021 to Current
   * Role: 반도체 관련 수업 수강
 * 광학 위성 영상 Labeling Dataset 구축
-  * Sponsor: Korea Aerospace Research Institute (KARI);
+  * Sponsor: Korea Aerospace Research Institute (KARI); 항공우주연구원 연구용역사업
   * Date: Sep. 2021 to Current
   * Role: Semantic Segmentation Labeling 진행
 
