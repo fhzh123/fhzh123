@@ -2,7 +2,7 @@
 ## Hi there 👋
 - I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
-- My interest is Neural Machine Translation, Language Modeling and NLP Augmentation.
+- My interest is Neural Machine Translation, Language Modeling and NLP Augmentation.!
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
