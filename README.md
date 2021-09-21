@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Welcome to my Github README!?type=slice)
 
 [![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123&show_icons=ture&theme=dracula)](https://github.com/fhzh123/fhzh123)
 ## Hi there 👋
