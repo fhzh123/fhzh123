@@ -25,7 +25,7 @@
 
 ### Projects
 * Korean Historical Document Translation and Analysis
-  * Sponsor: BrainKorea21(BK21)
+  * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Performance: 2 Publications and 2 Domestic Publications
   * Date: Mar. 2019 to Current
   * Role: Transformer기반의 Multi-task learning을 활용한 신경망 기계 번역 모델 개발 및 고도화
@@ -36,7 +36,7 @@
 * 건설작업장 안전 방해물 검출 시스템
   * Sponsor: National Research Foundation of Korea (NRF) and National IT Industry Promotion Agency (NIPA); 일반공동 연구지원사업
   * Performance: 2 Publications (Under Review)
-  * Date: Mar. 2019 to Current
+  * Date: Mar. 2019 to Feb. 2021
   * Role: YOLACT를 활용한 건설현장 Semantic Segmentation 및 CycleGAN을 활용한 Data Augmentation
 * 주행 환경 정적 객체 인지 AI 데이터
   * Sponsor: National Information Society Agency (NIA); 인공지능 학습용 데이터 구축 사업
@@ -44,21 +44,25 @@
   * Date: Sep. 2020 to Dec. 2020
   * Role: CycleGAN을 활용한 Data Augmentation
 * 전시 관람객 예측 플랫폼
-  * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드 실증지원 사업
-  * Date: Dec. 2020 to Current
+  * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드; 실증지원 사업
+  * Date: Dec. 2020 to Feb. 2022
   * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
 * 작업현장 안전 데이터 사업
   * Sponsor: Ministry of Science and ICT and National Information Society Agency (NIA); AI학습용 데이터 구축 사업
-  * Date: May. 2021 to Current
+  * Date: May. 2021 to Feb. 2022
   * Role: GNN을 활용한 Scene Graph생성
 * 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성
-  * Sponsor: Ministry of Science and ICT; 시스템반도체 융합전문인력 육성사업
+  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 시스템반도체 융합전문인력 육성사업
   * Date: Sep. 2021 to Current
   * Role: 반도체 관련 수업 수강
 * 광학 위성 영상 Labeling Dataset 구축
-  * Sponsor: Korea Aerospace Research Institute (KARI); 항공우주연구원 연구용역사업
-  * Date: Sep. 2021 to Current
+  * Sponsor: Korea Aerospace Research Institute (KARI); 항공우주연구원; 연구용역사업
+  * Date: Sep. 2021 to Nov. 2021
   * Role: Semantic Segmentation Labeling 진행
+* 실증 공항환경 단일 카메라 영상에 강인한 사람 식별 및 추적 핵심 기술 개발
+  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 관세행정 현장 맞춤형 기술개발 사업
+  * Date: Apr. 2022 to Current
+  * Role: 전처리 및 모델 코드 관련 자문 진행
 
 ### Prize
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
