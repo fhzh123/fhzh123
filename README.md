@@ -6,6 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
+* JaeWon Kim, **KyoHoon Jin**, SooJin Jang, ShinJin Kang and YoungBin Kim "Game Effect Sprite Generation with Minimal Data via Conditional GAN", 2022 Expert Systems with Applications (ESWA)
 * KyungSu Kang, YoungWoon Cho, **KyoHoon Jin**, YoungBin Kim and HanGuk Ryu "Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites", 2021 Automation in Construction [[Link]](https://www.sciencedirect.com/science/article/pii/S0926580521004854)
 * **KyoHoon Jin**, JeongA Wi, EunJu Lee, ShinJin Kang, SooKyun Kim and YoungBin Kim "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting", 2021 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417421011179)
 * KyeongPil Kang, **KyoHoon Jin**, SoYoung Yang, SuJin Jang, JaeGul Choo and YoungBin Kim "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation", 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) [[Link]](https://arxiv.org/abs/2104.05964)
