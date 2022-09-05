@@ -6,6 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
+* JunHyeok An, SooJin Jang, JuneHyoung Kwon, **KyoHoon Jin** and YoungBin Kim "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information", 2022 PLOS ONE
 * **KyoHoon Jin**, JunHo Lee, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC)
 * JaeWon Kim, **KyoHoon Jin**, SooJin Jang, ShinJin Kang and YoungBin Kim "Game Effect Sprite Generation with Minimal Data via Conditional GAN", 2022 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417422015767)
 * KyungSu Kang, YoungWoon Cho, **KyoHoon Jin**, YoungBin Kim and HanGuk Ryu "Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites", 2021 Automation in Construction [[Link]](https://www.sciencedirect.com/science/article/pii/S0926580521004854)
