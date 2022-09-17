@@ -2,7 +2,7 @@
 ## Hi there 👋
 - I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
-- My interest is Neural Machine Translation, Language Modeling and NLP Augmentation.
+- My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
@@ -68,10 +68,14 @@
   * Sponsor: Korea Aerospace Research Institute (KARI); 항공우주연구원; 연구용역사업
   * Date: Sep. 2021 to Nov. 2021
   * Role: Semantic Segmentation Labeling 진행
+* 소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발
+  * Sponser: Ministry of Culture, Sports and Tourism; 문화체육관광부; 디지털치료교육 플랫폼 개발 연구 사업
+  * Date: Mar. 2022 to Current
+  * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 * 실증 공항환경 단일 카메라 영상에 강인한 사람 식별 및 추적 핵심 기술 개발
   * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 관세행정 현장 맞춤형 기술개발 사업
   * Date: Apr. 2022 to Current
-  * Role: 전처리 및 모델 코드 관련 자문 진행
+  * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 
 ### Prize
 * [총장상] Best Paper Award, 2022, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
