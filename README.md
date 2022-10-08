@@ -20,7 +20,7 @@
 ### Domestic Publications
 * **KyoHoon Jin**, JungMin Yun, JaeHoon Park, SangMin Song, SooJin Jang and YoungBin Kim "한국 고문서 분석을 위한 시간 정보가 반영된 동적 워드 임베딩 기법 (Korean Historical Documents Analysis with Improved Dynamic Word Embedding), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133104)
 * JuHwan Choi, JunHo Lee, **KyoHoon Jin**, YeHoon Jang and YoungBin Kim "Variational Autoencoder를 활용한 의미 보존 자연어 데이터 증강 기법 (Semantic Preservation Natural Language Data Augmentation via Variational Autoencoder), 2022 Summer Annual Conference of IEIE"
-* JungMin Yun, EunJu Lee, **KyoHoon Jin**, SooJin Jang, Bilan Gao and YoungBin Kim "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism), 2022 Summer Annual Conference of IEIE"
+* JungMin Yun, EunJu Lee, **KyoHoon Jin**, SooJin Jang, Bilan Gao and YoungBin Kim "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133107)
 * JooWeon Choi, SooJin Jang, **KyoHoon Jin**, YeHoon Jang, ShiYong Yoo and YoungBin Kim "하이브리드 정보 혼합 모듈 기반 주가 등락 예측 (Hybrid Information Mixing Module For Stock Movement Prediction), 2022 Summer Annual Conference of IEIE""
 * SangMin Song, **KyoHoon Jin**, SuJin Cho, EunJue Lee and YoungBin Kim "수학 문장제 해결을 위한 PLM기반 수리적 추론의 필요성에 대한 성능 비교 (Performance Comparison on the Necessity of PLM-Based Mathematical Approach to Solving Math Word Problem), 2022 Korea Computer Congress (KCC)"" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113371)
 * InHo Lee, DongHwan Ahn, **KyoHoon Jin**, HongKee Sul, YoungBin Kim and ShiYong Yoo "배당 공정공시와 뉴스 공개에 따른 주식시장의 실시간 반응 연구 (A study on the Real-time Response of the Stock Market to Dividend Policy Disclosure and News Release), 2022 Korean Journal of Business Administration"" [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002846972)
@@ -78,7 +78,7 @@
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 
 ### Prize
-* [총장상] Best Paper Award, 2022 한국 전자 , "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
+* [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
 * [최우수상] Best Paper Award, 2019 한국 정보 과학회, "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)"
 * [장려상] 2018 빅콘테스트, 한국정보화진흥원, "유전 알고리즘을 활용한 이탈유저 예측 및 결제고객 파악"
