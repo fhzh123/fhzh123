@@ -18,7 +18,7 @@
 * SooJin Jang, **KyoHoon Jin**, JunHyeok An and YoungBin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503)
 
 ### Domestic Publications
-* **KyoHoon Jin**, JungMin Yun, JaeHoon Park, SangMin Song, SooJin Jang and YoungBin Kim "한국 고문서 분석을 위한 시간 정보가 반영된 동적 워드 임베딩 기법 (Korean Historical Documents Analysis with Improved Dynamic Word Embedding), 2022 Summer Annual Conference of IEIE"
+* **KyoHoon Jin**, JungMin Yun, JaeHoon Park, SangMin Song, SooJin Jang and YoungBin Kim "한국 고문서 분석을 위한 시간 정보가 반영된 동적 워드 임베딩 기법 (Korean Historical Documents Analysis with Improved Dynamic Word Embedding), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133104)
 * JuHwan Choi, JunHo Lee, **KyoHoon Jin**, YeHoon Jang and YoungBin Kim "Variational Autoencoder를 활용한 의미 보존 자연어 데이터 증강 기법 (Semantic Preservation Natural Language Data Augmentation via Variational Autoencoder), 2022 Summer Annual Conference of IEIE"
 * JungMin Yun, EunJu Lee, **KyoHoon Jin**, SooJin Jang, Bilan Gao and YoungBin Kim "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism), 2022 Summer Annual Conference of IEIE"
 * JooWeon Choi, SooJin Jang, **KyoHoon Jin**, YeHoon Jang, ShiYong Yoo and YoungBin Kim "하이브리드 정보 혼합 모듈 기반 주가 등락 예측 (Hybrid Information Mixing Module For Stock Movement Prediction), 2022 Summer Annual Conference of IEIE""
