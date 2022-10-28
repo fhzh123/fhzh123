@@ -7,7 +7,7 @@
 
 ### Publications
 * JunHyeok An, SooJin Jang, JuneHyoung Kwon, **KyoHoon Jin** and YoungBin Kim "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information", 2022 PLOS ONE [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274767)
-* **KyoHoon Jin**, JunHo Lee, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC)
+* **KyoHoon Jin**, JunHo Lee, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC) [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/EW4-6.pdf)
 * JaeWon Kim, **KyoHoon Jin**, SooJin Jang, ShinJin Kang and YoungBin Kim "Game Effect Sprite Generation with Minimal Data via Conditional GAN", 2022 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417422015767)
 * KyungSu Kang, YoungWoon Cho, **KyoHoon Jin**, YoungBin Kim and HanGuk Ryu "Application of one-stage instance segmentation with weather conditions in surveillance cameras at construction sites", 2021 Automation in Construction [[Link]](https://www.sciencedirect.com/science/article/pii/S0926580521004854)
 * **KyoHoon Jin**, JeongA Wi, EunJu Lee, ShinJin Kang, SooKyun Kim and YoungBin Kim "TrafficBERT: Pre-trained Model with Large-scale Data for Long-range Traffic Flow Forecasting", 2021 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417421011179)
