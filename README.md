@@ -1,4 +1,4 @@
-[![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123&show_icons=ture&theme=dracula)](https://github.com/fhzh123/fhzh123)
+<!-- [![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123&show_icons=ture&theme=dracula)](https://github.com/fhzh123/fhzh123) -->
 ## Hi there 👋
 - I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
