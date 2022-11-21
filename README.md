@@ -6,6 +6,8 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr
 
 ### Publications
+* JungMin Yun, SangMin Song, **Kyohoon Jin** and YoungBin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2022 International Conference on Electronics, Information, and Communication (ICEIC)
+* SangMin Song, JungMin Yun, **Kyohoon Jin** and YoungBin Kim "A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems", 2022 International Conference on Electronics, Information, and Communication (ICEIC)
 * JunHyeok An, SooJin Jang, JuneHyoung Kwon, **KyoHoon Jin** and YoungBin Kim "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information", 2022 PLOS ONE [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274767)
 * **KyoHoon Jin**, JunHo Lee, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC) [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/EW4-6.pdf) [[Code]](https://github.com/IIPL-CAU/latent_nlp_model)
 * JaeWon Kim, **KyoHoon Jin**, SooJin Jang, ShinJin Kang and YoungBin Kim "Game Effect Sprite Generation with Minimal Data via Conditional GAN", 2022 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417422015767)
