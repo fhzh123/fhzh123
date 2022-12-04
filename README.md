@@ -7,7 +7,7 @@
 
 ### Publications
 * SooJin Jang, JuneHyoung Kwon **KyoHoon Jin** and YoungBin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI)
-* JungMin Yun, SangMin Song, **KyoHoon Jin** and YoungBin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2023 International Conference on Electronics, Information, and Communication (ICEIC)
+* JungMin Yun, SangMin Song, **KyoHoon Jin** and YoungBin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2023 International Conference on Electronics, Information, and Communication (ICEIC) [[Code]](https://github.com/Jungmin-YUN-0/TopAttention)
 * SangMin Song, JungMin Yun, **KyoHoon Jin** and YoungBin Kim "A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems", 2023 International Conference on Electronics, Information, and Communication (ICEIC)
 * JunHyeok An, SooJin Jang, JuneHyoung Kwon, **KyoHoon Jin** and YoungBin Kim "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information", 2022 PLOS ONE [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274767)
 * **KyoHoon Jin**, JunHo Lee, JuHwan Choi, SooJin Jang and YoungBin Kim "Generative Data Augmentation via Wasserstein Autoencoder for Text Classification", 2022 International Conference on ICT Convergence (ICTC) [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/EW4-6.pdf) [[Code]](https://github.com/IIPL-CAU/latent_nlp_model)
