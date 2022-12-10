@@ -18,7 +18,7 @@
 * JongBin Won, JongWoong Park, SooJin Jang, **KyoHoon Jin** and YoungBin Kim, "Automated Structural Damage Identification Using Data Normalization and 1-Dimensional Convolutional Neural Network", 2021 Applied Sciences [[Link]](https://www.mdpi.com/2076-3417/11/6/2610)
 * **KyoHoon Jin**, JeongA Wi, KyeongPil Kan and YoungBin Kim, "Korean Historical Documents Analysis with Improved Dynamic Word Embedding", 2020 Applied Sciences [[Link]](https://www.mdpi.com/2076-3417/10/21/7939/htm)
 * YuChul Shin, JaeWon Kim, **KyoHoon Jin** and YoungBin Kim, "Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9034187)
-* SooJin Jang, **KyoHoon Jin**, JunHyeok An and YoungBin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503)
+* SooJin Jang, **KyoHoon Jin**, JunHyeok An and YoungBin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503) [[Code]](https://github.com/tnwls6865/regularization)
 
 ### Domestic Publications
 * **KyoHoon Jin**, JungMin Yun, JaeHoon Park, SangMin Song, SooJin Jang and YoungBin Kim "한국 고문서 분석을 위한 시간 정보가 반영된 동적 워드 임베딩 기법 (Korean Historical Documents Analysis with Improved Dynamic Word Embedding), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133104)
