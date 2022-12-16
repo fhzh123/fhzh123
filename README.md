@@ -5,7 +5,7 @@
 - My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fhzh123)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Publications
 * SooJin Jang, JuneHyoung Kwon **KyoHoon Jin** and YoungBin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI)
