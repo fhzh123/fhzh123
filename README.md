@@ -6,7 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
 ### Publications
-* SooJin Jang, JuneHyoung Kwon **KyoHoon Jin** and YoungBin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI)
+* SooJin Jang, JuneHyoung Kwon **KyoHoon Jin** and YoungBin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197622006960)
 * JungMin Yun, SangMin Song, **KyoHoon Jin** and YoungBin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2023 International Conference on Electronics, Information, and Communication (ICEIC) [[Code]](https://github.com/Jungmin-YUN-0/TopAttention)
 * SangMin Song, JungMin Yun, **KyoHoon Jin** and YoungBin Kim "A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems", 2023 International Conference on Electronics, Information, and Communication (ICEIC)
 * JunHyeok An, SooJin Jang, JuneHyoung Kwon, **KyoHoon Jin** and YoungBin Kim "Saliency Guided Data Augmentation Strategy for Maximally Utilizing an Object’s Visual Information", 2022 PLOS ONE [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274767)
