@@ -81,6 +81,7 @@
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 
 ### Prize
+* [우수상] 
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
 * [최우수상] Best Paper Award, 2019 한국 정보 과학회, "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)"
@@ -103,18 +104,3 @@
 * <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> Pandas (1.2.4)
 * <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> NumPy (1.20)
 * <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> Unity (2019.1.14)
-
-<!--
-**fhzh123/fhzh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on IIPL
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
