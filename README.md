@@ -83,7 +83,7 @@
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 
 ### Prize
-* [우수상] 
+* [우수상] 영상분야 전문가 멘토링 프로그램, BrainKorea21(BK21)
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
 * [최우수상] Best Paper Award, 2019 한국 정보 과학회, "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)"
