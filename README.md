@@ -91,9 +91,9 @@
 * [장려상] 2018 빅콘테스트, 한국정보화진흥원, "유전 알고리즘을 활용한 이탈유저 예측 및 결제고객 파악"
 * [특별상] 제7회 교통데이터 공모전, 국토교통부, "D.P.I (Driving Pattern Identification)"
 * [특별상] 엘리스 에듀첼린지, 카이스트
-* [우수상] 제1회 스포츠데이터 활용 경진대회, 국민체육진흥공단 & 한국프로농구연맹, "응원 농구 팀 추천 시스템 개발 제안 아이디어"
-* [우수상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠진흥원, "SNS와 날씨정보를 활용한 자살예측 알고리즘 개발"
-* [장려상] 제3회 경기 빅데이터 활용분석 경진대회, 경기콘텐츠진흥원, "공공기관의 API를 활용한 교통혼잡률 예측 시스템"
+* [우수상] 제1회 스포츠데이터 활용 경진대회, 국민체육진흥공단 & 한국프로농구연맹, "응원 농구 팀 추천 시스템 개발 제안 아이디어" [[Link]](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kspo2011&logNo=221270900876) [[Interview]](https://blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kspo2011&logNo=221187155013)
+* [우수상] 제3회 경기 빅데이터 활용분석 경진대회, 경기콘텐츠진흥원, "SNS와 날씨정보를 활용한 자살예측 알고리즘 개발"
+* [장려상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠진흥원, "공공기관의 API를 활용한 교통혼잡률 예측 시스템" [[Link]](https://www.ajunews.com/view/20170628142927684)
 
 ### Competitions
 * "모션 키포인트 검출 AI 경진대회" (Dacon) 21th/156team (Top 14%) [[Link]](https://dacon.io/competitions/official/235701/leaderboard/)
