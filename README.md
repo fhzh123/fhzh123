@@ -42,7 +42,7 @@
 * Korean Historical Document Translation and Analysis
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Performance: 2 Publications and 2 Domestic Publications
-  * Date: Mar. 2019 to Current
+  * Date: Mar. 2019 to Feb. 2021
   * Role: Transformer기반의 Multi-task learning을 활용한 신경망 기계 번역 모델 개발 및 고도화
 * 인공지능을 활용한 다문화가정 언어교육
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
@@ -58,7 +58,7 @@
   * Performance: 1 Domestic Publications
   * Date: Sep. 2020 to Dec. 2020
   * Role: CycleGAN을 활용한 Data Augmentation
-* 전시 관람객 예측 플랫폼
+* 전시 관람객 예측 플랫폼 [[Link]](https://news.seoul.go.kr/economy/archives/521164)
   * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드; 실증지원 사업
   * Date: Dec. 2020 to Feb. 2022
   * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
@@ -66,7 +66,7 @@
   * Sponsor: Ministry of Science and ICT and National Information Society Agency (NIA); AI학습용 데이터 구축 사업
   * Date: May. 2021 to Feb. 2022
   * Role: GNN을 활용한 Scene Graph생성
-* 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성
+* 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성 [[Link]](http://ieot.cau.ac.kr/main.do)
   * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 시스템반도체 융합전문인력 육성사업
   * Date: Sep. 2021 to Current
   * Role: 반도체 관련 수업 수강
@@ -86,7 +86,7 @@
 ### Prize
 * [우수상] 영상분야 전문가 멘토링 프로그램, BrainKorea21(BK21)
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
-* [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)"
+* [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)" [[Link]](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
 * [최우수상] Best Paper Award, 2019 한국 정보 과학회, "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)"
 * [장려상] 2018 빅콘테스트, 한국정보화진흥원, "유전 알고리즘을 활용한 이탈유저 예측 및 결제고객 파악"
 * [특별상] 제7회 교통데이터 공모전, 국토교통부, "D.P.I (Driving Pattern Identification)"
