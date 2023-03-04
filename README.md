@@ -44,7 +44,7 @@
   * Performance: 2 Publications and 2 Domestic Publications
   * Date: Mar. 2019 to Feb. 2021
   * Role: Transformer기반의 Multi-task learning을 활용한 신경망 기계 번역 모델 개발 및 고도화
-* 인공지능을 활용한 다문화가정 언어교육
+* 인공지능을 활용한 다문화가정 언어교육 [[Code]](https://github.com/fhzh123/cft_text)
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Date: Jul. 2019 to Feb. 2020
   * Role: 어린이들의 언어 수준 파악 알고리즘 개발 및 언어 교육 내용 시각화
