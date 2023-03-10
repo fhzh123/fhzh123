@@ -5,6 +5,10 @@
 - My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
+## My Lab Information
+- [[Homepage]](https://sites.google.com/view/iiplcau)
+- [[Notion]](https://cauiipl.notion.site/cauiipl/IIPL-3f2c561d0e874f80bd1d9ec15cb4668a)
+
 ### Publications
 * SooJin Jang, JuneHyoung Kwon **KyoHoon Jin** and YoungBin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197622006960)
 * JungMin Yun, SangMin Song, **KyoHoon Jin** and YoungBin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2023 International Conference on Electronics, Information, and Communication (ICEIC) [[Code]](https://github.com/Jungmin-YUN-0/TopAttention)
