@@ -5,7 +5,7 @@
 - My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
-## My Lab Information
+## IIPL Information
 - [[Homepage]](https://sites.google.com/view/iiplcau)
 - [[Notion]](https://cauiipl.notion.site/cauiipl/IIPL-3f2c561d0e874f80bd1d9ec15cb4668a)
 
