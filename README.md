@@ -5,10 +5,6 @@
 - My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
-## IIPL Information
-- [[Homepage]](https://sites.google.com/view/iiplcau)
-- [[Notion]](https://cauiipl.notion.site/cauiipl/IIPL-3f2c561d0e874f80bd1d9ec15cb4668a)
-
 ### Publications
 * SooJin Jang, JuneHyoung Kwon **KyoHoon Jin** and YoungBin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197622006960)
 * JungMin Yun, SangMin Song, **KyoHoon Jin** and YoungBin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2023 International Conference on Electronics, Information, and Communication (ICEIC) [[Code]](https://github.com/Jungmin-YUN-0/TopAttention)
@@ -104,6 +100,10 @@
 * "제2회 컴퓨터 비전 학습 경진대회" (Dacon) 8th/215team (Top 4%) [[Link]](https://dacon.io/competitions/official/235697/overview/description)
 * "2020 인공지능 온라인 경진대회" (AI Hub) Task 7; Object Detection 3rd/400team | Total 43th/400team
 * "AI야, 진짜 뉴스를 찾아줘!" (Dacon) 53th/192team (Top 28%) [[Link]](https://dacon.io/competitions/official/235658/overview/description)
+
+## IIPL Information
+- [[Homepage]](https://sites.google.com/view/iiplcau)
+- [[Notion]](https://cauiipl.notion.site/cauiipl/IIPL-3f2c561d0e874f80bd1d9ec15cb4668a)
 
 ### Skills
 * <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> Python (3.6.9) 
