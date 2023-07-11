@@ -7,7 +7,7 @@
 
 ### Publications
 * **Kyohoon Jin**, Kyunhsu Kang, Baekkyun Shin, Junehyoung Kwon, Soojin Jang, Youngnin Kim and Hanguk Ryu "Development of Robust Detector Using The Weather Deep Generative Model For Outdoor Monitoring System", 2023 Expert Systems with Applications (ESWA) [[Link]]()
-* Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels" [[Link]](https://openreview.net/forum?id=OiSbJbVWBJT) 
+* Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels" 2023 International Conference on Learning Representations Tinypaper [[Link]](https://openreview.net/forum?id=OiSbJbVWBJT) 
 * Soojin Jang, Junehyoung Kwon **Kyohoon Jin** and Youngbin Kim "Weakly Supervised Semantic Segmentation via Graph Recalibration with Scaling Weight Unit" 2023 Engineering Applications of Artificial Intelligence (EAAI) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197622006960)
 * Jungmin Yun, Sangmin Song, **Kyohoon Jin** and Youngbin Kim "TopAttn: Focusing on Core Tokens With Token Pruned Self-Attention", 2023 International Conference on Electronics, Information, and Communication (ICEIC) [[Code]](https://github.com/Jungmin-YUN-0/TopAttention)
 * Sangmin Song, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems", 2023 International Conference on Electronics, Information, and Communication (ICEIC)
