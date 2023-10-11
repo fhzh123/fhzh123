@@ -6,6 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
 ### Publications
+* Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews", 2023 International Conference On Consumer Electronics Asia (ICCE-Asia) [[Link]]()
 * Kyeongpil Kang, **Kyohoon Jin**, Sujin Jang, Jaegul Choo and Youngbin Kim "See, Caption, Cluster:Large-Scale Image Analysis using Captioning and Topic Modeling", 2023 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417423018936?via%3Dihub)
 * **Kyohoon Jin**, KyunGsu Kang, Baekkyun Shin, Junehyoung Kwon, Soojin Jang, Youngnin Kim and Hanguk Ryu "Development of Robust Detector Using The Weather Deep Generative Model For Outdoor Monitoring System", 2023 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014860)
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels" 2023 International Conference on Learning Representations (ICLR)  Tinypaper [[Link]](https://openreview.net/forum?id=OiSbJbVWBJT) 
