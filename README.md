@@ -93,7 +93,7 @@ Rule-based Text Data Augmentation Methods), 2023 Summer Annual Conference of IEI
 ### Prize
 * [최우수상] 2023 인공지능 $\cdot$ 영상분야 전문가 멘토링 프로그램 3기, BrainKorea21(BK21) [[Link]](https://bk21four.cau.ac.kr/gsaim/cm/cm_1.php?p_idx=615&s_scroll=&s_key=&p_page=&code=&PageId=&p_mode=view)
 * [총장상] Best Paper Award, 2023 한국 전자 공학회, "한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)"
-* [우수상] 영상분야 전문가 멘토링 프로그램, BrainKorea21(BK21)
+* [우수상] 2023 인공지능 $\cdot$ 영상분야 전문가 멘토링 프로그램 1기, BrainKorea21(BK21) [[Link]](https://bk21four.cau.ac.kr/gsaim/cm/cm_1.php?p_idx=479&s_scroll=&s_key=&p_page=&code=&PageId=&p_mode=view)
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)" [[Link]](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
 * [최우수상] Best Paper Award, 2019 한국 정보 과학회, "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)"
