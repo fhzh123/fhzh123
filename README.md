@@ -91,6 +91,7 @@ Rule-based Text Data Augmentation Methods), 2023 Summer Annual Conference of IEI
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 
 ### Prize
+* [최우수상] 2023 인공지능$\cdot$영상분야 전문가 멘토링 프로그램 3기, BrainKorea21(BK21) [[Link]](https://bk21four.cau.ac.kr/gsaim/cm/cm_1.php?p_idx=615&s_scroll=&s_key=&p_page=&code=&PageId=&p_mode=view)
 * [총장상] Best Paper Award, 2023 한국 전자 공학회, "한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)"
 * [우수상] 영상분야 전문가 멘토링 프로그램, BrainKorea21(BK21)
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
