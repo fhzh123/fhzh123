@@ -25,11 +25,11 @@
 * Soojin Jang, **Kyohoon Jin**, Junhyeok An and Youngbin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503) [[Code]](https://github.com/tnwls6865/regularization)
 
 ### Domestic Publications
-* Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews), 2023 Summer Annual Conference of IEIE"
-* Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법 (Applying Soft Label to
-Rule-based Text Data Augmentation Methods), 2023 Summer Annual Conference of IEIE"
-* Seunguk Yu, Juhwan Choi, Heejae Suh, **Kyohoon Jin** and Youngbin Kim "KITE: 한국어 고의 오탈자를 활용한 텍스트 데이터 증강 방법론 (KITE: Text Data Augmentation Methods using Korean Intentional Typographical Errors), Proceedings of HCI Korea 2023
-* Junho Lee, Sangmin Song, Juhwan Choi, Juhyoung Park, **Kyohoon Jin**, Youngbin Kim "낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법 (Text Augmentation to Mitigate Overconfidence through Unfamiliar Data), Proceedings of HCI Korea 2023
+* Kyohoon Jin, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024"
+* Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews)", 2023 Summer Annual Conference of IEIE
+* Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법 (Applying Soft Label to Rule-based Text Data Augmentation Methods)", 2023 Summer Annual Conference of IEIE
+* Seunguk Yu, Juhwan Choi, Heejae Suh, **Kyohoon Jin** and Youngbin Kim "KITE: 한국어 고의 오탈자를 활용한 텍스트 데이터 증강 방법론 (KITE: Text Data Augmentation Methods using Korean Intentional Typographical Errors)", Proceedings of HCI Korea 2023
+* Junho Lee, Sangmin Song, Juhwan Choi, Juhyoung Park, **Kyohoon Jin**, Youngbin Kim "낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법 (Text Augmentation to Mitigate Overconfidence through Unfamiliar Data)", Proceedings of HCI Korea 2023
 * Yuchul Shin, **Kyohoon Jin**, Juhwan Choi, Junho Lee, Soojin Jang and Youngbin Kim "Semantic Preservation and Natural Language Data Augmentation via Variational Autoencoder", 2022 TechART  [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002895235)
 * **Kyohoon Jin**, Jungmin Yun, Jaehoon Park, Sangmin Song, Soojin Jang and Youngbin Kim "한국 고문서 분석을 위한 시간 정보가 반영된 동적 워드 임베딩 기법 (Korean Historical Documents Analysis with Improved Dynamic Word Embedding), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133104)
 * JuHwan Choi, JunHo Lee, **KyoHoon Jin**, YeHoon Jang and YoungBin Kim "Variational Autoencoder를 활용한 의미 보존 자연어 데이터 증강 기법 (Semantic Preservation Natural Language Data Augmentation via Variational Autoencoder), 2022 Summer Annual Conference of IEIE" [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133108) [[Code]](https://github.com/IIPL-CAU/latent_nlp_model)
