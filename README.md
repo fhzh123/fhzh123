@@ -6,6 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
 ### Publications
+* **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangming Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]]()
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangming Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://openreview.net/forum?id=ZxqJT-EerBe)
 * Juhwan Choi, Eunju Lee, **Kyohoon Jin** and Youngbin Kim "GPTs Are Multilingual Annotators for Sequence Generation Tasks", 2024 European Chapter of the Association for Computational Linguistics (EACL) Findings [[Link]](https://openreview.net/forum?id=3XhSuG_ri9K)
 * Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews", 2023 International Conference On Consumer Electronics Asia (ICCE-Asia) [[Link]]()
