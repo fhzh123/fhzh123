@@ -71,7 +71,7 @@
 * 전시 관람객 예측 플랫폼 [[Link]](https://news.seoul.go.kr/economy/archives/521164)
   * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드; 실증지원 사업
   * Date: Dec. 2020 to Feb. 2022
-  * Role: Natural Language Process 총괄 (Image Captioning, Topic Modeling)
+  * Role: Natural Language Process 총괄 (Image Captioning 알고리즘 개발 및 검증, Topic Modeling 알고리즘 개발 및 검증)
 * 작업현장 안전 데이터 사업
   * Sponsor: Ministry of Science and ICT and National Information Society Agency (NIA); AI학습용 데이터 구축 사업
   * Date: May. 2021 to Feb. 2022
@@ -86,17 +86,19 @@
   * Role: Semantic Segmentation Labeling 진행
 * 소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발 [[Link]](http://bumo.or.kr/bbs/board.php?bo_table=B41&wr_id=783&view_branch=&meCounse=)
   * Sponser: Ministry of Culture, Sports and Tourism; 문화체육관광부; 디지털치료교육 플랫폼 개발 연구 사업
-  * Date: Mar. 2022 to Current
+  * Date: Mar. 2022 to Dec. 2023
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
 * 실증 공항환경 단일 카메라 영상에 강인한 사람 식별 및 추적 핵심 기술 개발
   * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 관세행정 현장 맞춤형 기술개발 사업
-  * Date: Apr. 2022 to Current
+  * Date: Apr. 2022 to Dec. 2023
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
+* Neural Journalism: 빅데이터와 딥러닝 기반 차세대 저널리즘 연구
+  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 우수신진연구
+  * Date: Mar. 2022 to Current
+  * Role: 개인화된 뉴스 요약 알고리즘 개발
 
 ### Prize
-* [최우수상] 2023 인공지능 $\cdot$ 영상분야 전문가 멘토링 프로그램 3기, BrainKorea21(BK21) [[Link]](https://bk21four.cau.ac.kr/gsaim/cm/cm_1.php?p_idx=615&s_scroll=&s_key=&p_page=&code=&PageId=&p_mode=view)
 * [총장상] Best Paper Award, 2023 한국 전자 공학회, "한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)"
-* [우수상] 2023 인공지능 $\cdot$ 영상분야 전문가 멘토링 프로그램 1기, BrainKorea21(BK21) [[Link]](https://bk21four.cau.ac.kr/gsaim/cm/cm_1.php?p_idx=479&s_scroll=&s_key=&p_page=&code=&PageId=&p_mode=view)
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)" [[Link]](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
 * [최우수상] Best Paper Award, 2019 한국 정보 과학회, "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)"
@@ -118,7 +120,7 @@
 - [[Notion]](https://cauiipl.notion.site/cauiipl/IIPL-3f2c561d0e874f80bd1d9ec15cb4668a)
 
 ### Skills
-* <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> Python (3.6.9) 
+* <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> Python (3.8.6) 
 * <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> PyTorch (1.10.0)
 * <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> Pandas (1.2.4)
 * <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> NumPy (1.20)
