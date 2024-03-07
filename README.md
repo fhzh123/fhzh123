@@ -28,8 +28,8 @@
 * Soojin Jang, **Kyohoon Jin**, Junhyeok An and Youngbin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503) [[Code]](https://github.com/tnwls6865/regularization)
 
 ### Domestic Publications
-* Kyohoon Jin, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024"
-* Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews)", 2023 Summer Annual Conference of IEIE
+* Kyohoon Jin, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024" [[Link]](https://conf.kics.or.kr/program)
+* Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews)", 2023 Summer Annual Conference of IEIE [[Link]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522850)
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법 (Applying Soft Label to Rule-based Text Data Augmentation Methods)", 2023 Summer Annual Conference of IEIE
 * Seunguk Yu, Juhwan Choi, Heejae Suh, **Kyohoon Jin** and Youngbin Kim "KITE: 한국어 고의 오탈자를 활용한 텍스트 데이터 증강 방법론 (KITE: Text Data Augmentation Methods using Korean Intentional Typographical Errors)", Proceedings of HCI Korea 2023
 * Junho Lee, Sangmin Song, Juhwan Choi, Juhyoung Park, **Kyohoon Jin**, Youngbin Kim "낯선 데이터를 활용한 과잉신뢰 완화 텍스트 증강 기법 (Text Augmentation to Mitigate Overconfidence through Unfamiliar Data)", Proceedings of HCI Korea 2023
