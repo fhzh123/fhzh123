@@ -1,11 +1,11 @@
 <!-- [![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123&show_icons=ture&theme=dracula)](https://github.com/fhzh123/fhzh123) -->
-## Hi there 👋
+# Hi there 👋
 - I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
 - I'm currently learning Natural Language Processing
 - My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
-### Publications
+# 📜 Publications
 * **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangming Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]]()
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangming Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://openreview.net/forum?id=ZxqJT-EerBe)
 * Juhwan Choi, Eunju Lee, **Kyohoon Jin** and Youngbin Kim "GPTs Are Multilingual Annotators for Sequence Generation Tasks", 2024 European Chapter of the Association for Computational Linguistics (EACL) Findings [[Link]](https://openreview.net/forum?id=3XhSuG_ri9K)
@@ -27,7 +27,7 @@
 * Yuchul Shin, Jaewon Kim, **Kyohoon Jin** and Youngbin Kim, "Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9034187)
 * Soojin Jang, **Kyohoon Jin**, Junhyeok An and Youngbin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503) [[Code]](https://github.com/tnwls6865/regularization)
 
-### Domestic Publications
+# 📄 Domestic Publications
 * Kyohoon Jin, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024" [[Link]](https://conf.kics.or.kr/program)
 * Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews)", 2023 Summer Annual Conference of IEIE [[Link]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522850)
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법 (Applying Soft Label to Rule-based Text Data Augmentation Methods)", 2023 Summer Annual Conference of IEIE
@@ -48,7 +48,7 @@
 * YunSung Cho, KyeongPil Kang, **KyoHoon Jin** and YoungBin Kim "텍스트 마이닝을 활용한 조선 왕위 교체 전후 시대 상황 분석 (Historical Background Analysis of Royal Translation in Joseon Dynasty via Text Mining)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763660)
 * **KyoHoon Jin**, KyeongPil Kang, YunSung Cho and YoungBin Kim "통계적 구문분석과 Attention기반 심층 신경망을 통한 조선왕조실록 기계번역 (Machine Translation of the Annals of the Joseon Dynasty via the Statistical Parsing and Attention-based Deep Neural Network)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763306)
 
-### Projects
+# 📊 Projects
 * Korean Historical Document Translation and Analysis [[News]](https://www.job-post.co.kr/news/articleView.html?idxno=19302)
   * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
   * Performance: 2 Publications and 2 Domestic Publications
@@ -97,7 +97,7 @@
   * Date: Mar. 2022 to Current
   * Role: 개인화된 뉴스 요약 알고리즘 개발
 
-### Prize
+# 🏆 Award
 * [총장상] Best Paper Award, 2023 한국 전자 공학회, "한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)"
 * [총장상] Best Paper Award, 2022 한국 전자 공학회, "Core-token Attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)"
 * [우수상] Best Paper Award, 2021 한국 정보 과학회, "한국어 악성 댓글 탐지 시스템 성능 향상을 위한 HLI-BERT 모델 제안 (HLI-BERT for Korean toxic Comment Classification)" [[Link]](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
@@ -109,17 +109,17 @@
 * [우수상] 제3회 경기 빅데이터 활용분석 경진대회, 경기콘텐츠진흥원, "SNS와 날씨정보를 활용한 자살예측 알고리즘 개발"
 * [장려상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠진흥원, "공공기관의 API를 활용한 교통혼잡률 예측 시스템" [[Link]](https://www.ajunews.com/view/20170628142927684)
 
-### Competitions
+# 🆚 Competitions
 * "모션 키포인트 검출 AI 경진대회" (Dacon) 21th/156team (Top 14%) [[Link]](https://dacon.io/competitions/official/235701/leaderboard/)
 * "제2회 컴퓨터 비전 학습 경진대회" (Dacon) 8th/215team (Top 4%) [[Link]](https://dacon.io/competitions/official/235697/overview/description)
 * "2020 인공지능 온라인 경진대회" (AI Hub) Task 7; Object Detection 3rd/400team | Total 43th/400team
 * "AI야, 진짜 뉴스를 찾아줘!" (Dacon) 53th/192team (Top 28%) [[Link]](https://dacon.io/competitions/official/235658/overview/description)
 
-## IIPL Information
+# 🥼 IIPL Information
 - [[Homepage]](https://sites.google.com/view/iiplcau)
 - [[Notion]](https://cauiipl.notion.site/cauiipl/IIPL-3f2c561d0e874f80bd1d9ec15cb4668a)
 
-### Skills
+# 💻 Skills
 * <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> Python (3.8.6) 
 * <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> PyTorch (1.10.0)
 * <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> Pandas (1.2.4)
