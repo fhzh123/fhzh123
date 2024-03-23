@@ -6,6 +6,7 @@
 - Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
 
 # 📜 Publications
+## 🌏 International Publications
 * **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangming Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]]()
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangming Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://openreview.net/forum?id=ZxqJT-EerBe)
 * Juhwan Choi, Eunju Lee, **Kyohoon Jin** and Youngbin Kim "GPTs Are Multilingual Annotators for Sequence Generation Tasks", 2024 European Chapter of the Association for Computational Linguistics (EACL) Findings [[Link]](https://openreview.net/forum?id=3XhSuG_ri9K)
@@ -27,7 +28,7 @@
 * Yuchul Shin, Jaewon Kim, **Kyohoon Jin** and Youngbin Kim, "Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9034187)
 * Soojin Jang, **Kyohoon Jin**, Junhyeok An and Youngbin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503) [[Code]](https://github.com/tnwls6865/regularization)
 
-# 📄 Domestic Publications
+## 🇰🇷 Domestic Publications
 * Kyohoon Jin, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024" [[Link]](https://conf.kics.or.kr/program)
 * Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews)", 2023 Summer Annual Conference of IEIE [[Link]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522850)
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법 (Applying Soft Label to Rule-based Text Data Augmentation Methods)", 2023 Summer Annual Conference of IEIE
