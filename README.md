@@ -30,6 +30,7 @@
 
 ## 🇰🇷 Domestic Publications
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "앙상블 기법을 활용한 NLP의 잘못된 상관관계 감소 통합 접근법 (Unified Approach for Spurious Correlation Reduction in NLP via Ensemble Techniques)", KICS Summer Conference 2024
+* Kyeonghyun Kim, Yeonghwa Kim, **Kyohoon Jin** and Youngbin Kim "Con-RAG: 기여도 기반 검색 필요성 분석을 통한 효율적인 검색 증강 생성 (Con-RAG: Contribution-based Analysis of Retrieval Necessity for Efficient Retrieval Augmentation Generation)", 2024 Summer Annual Conference of IEIE
 * **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024 [[Link]](https://conf.kics.or.kr/program)
 * Yeonghwa Kim, Jooweon Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Time-Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews)", 2023 Summer Annual Conference of IEIE [[Link]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11522850)
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "소프트 라벨을 적용한 규칙 기반 텍스트 데이터 증강 기법 (Applying Soft Label to Rule-based Text Data Augmentation Methods)", 2023 Summer Annual Conference of IEIE
