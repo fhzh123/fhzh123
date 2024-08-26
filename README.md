@@ -52,53 +52,53 @@
 * **KyoHoon Jin**, KyeongPil Kang, YunSung Cho and YoungBin Kim "통계적 구문분석과 Attention기반 심층 신경망을 통한 조선왕조실록 기계번역 (Machine Translation of the Annals of the Joseon Dynasty via the Statistical Parsing and Attention-based Deep Neural Network)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763306)
 
 # 📊 Projects
-* Korean Historical Document Translation and Analysis [[News]](https://www.job-post.co.kr/news/articleView.html?idxno=19302)
-  * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
-  * Performance: 2 Publications and 2 Domestic Publications
-  * Date: Mar. 2019 to Feb. 2021
-  * Role: Transformer기반의 Multi-task learning을 활용한 신경망 기계 번역 모델 개발 및 고도화
-* 인공지능을 활용한 다문화가정 언어교육 [[Code]](https://github.com/fhzh123/cft_text)
-  * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
-  * Date: Jul. 2019 to Feb. 2020
-  * Role: 어린이들의 언어 수준 파악 알고리즘 개발 및 언어 교육 내용 시각화
-* 건설작업장 안전 방해물 검출 시스템
-  * Sponsor: National Research Foundation of Korea (NRF) and National IT Industry Promotion Agency (NIPA); 일반공동 연구지원사업
-  * Performance: 2 Publications (Under Review)
-  * Date: Mar. 2019 to Feb. 2021
-  * Role: YOLACT를 활용한 건설현장 Semantic Segmentation 및 CycleGAN을 활용한 Data Augmentation
+* Neural Journalism: 빅데이터와 딥러닝 기반 차세대 저널리즘 연구
+  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 우수신진연구
+  * Date: Mar. 2022 to Current
+  * Role: 개인화된 뉴스 요약 알고리즘 개발
+* 실증 공항환경 단일 카메라 영상에 강인한 사람 식별 및 추적 핵심 기술 개발
+  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 관세행정 현장 맞춤형 기술개발 사업
+  * Date: Apr. 2022 to Dec. 2023
+  * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
+ * 소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발 [[Link]](http://bumo.or.kr/bbs/board.php?bo_table=B41&wr_id=783&view_branch=&meCounse=)
+  * Sponser: Ministry of Culture, Sports and Tourism; 문화체육관광부; 디지털치료교육 플랫폼 개발 연구 사업
+  * Date: Mar. 2022 to Dec. 2023
+  * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
+* 광학 위성 영상 Labeling Dataset 구축
+  * Sponsor: Korea Aerospace Research Institute (KARI); 항공우주연구원; 연구용역사업
+  * Date: Sep. 2021 to Nov. 2021
+  * Role: Semantic Segmentation Labeling 진행
+* 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성 [[Link]](http://ieot.cau.ac.kr/main.do)
+  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 시스템반도체 융합전문인력 육성사업
+  * Date: Sep. 2021 to Current
+  * Role: 반도체 관련 수업 수강
+* 작업현장 안전 데이터 사업
+  * Sponsor: Ministry of Science and ICT and National Information Society Agency (NIA); AI학습용 데이터 구축 사업
+  * Date: May. 2021 to Feb. 2022
+  * Role: GNN을 활용한 Scene Graph생성
+* 전시 관람객 예측 플랫폼 [[Link]](https://news.seoul.go.kr/economy/archives/521164)
+  * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드; 실증지원 사업
+  * Date: Dec. 2020 to Feb. 2022
+  * Role: Natural Language Process 총괄 (Image Captioning 알고리즘 개발 및 검증, Topic Modeling 알고리즘 개발 및 검증)
 * 주행 환경 정적 객체 인지 AI 데이터
   * Sponsor: National Information Society Agency (NIA); 인공지능 학습용 데이터 구축 사업
   * Performance: 1 Domestic Publications
   * Date: Sep. 2020 to Dec. 2020
   * Role: CycleGAN을 활용한 Data Augmentation
-* 전시 관람객 예측 플랫폼 [[Link]](https://news.seoul.go.kr/economy/archives/521164)
-  * Sponsor: Seoul Business Agency (SBA); 서울시 산학연 협력사업 테스트베드; 실증지원 사업
-  * Date: Dec. 2020 to Feb. 2022
-  * Role: Natural Language Process 총괄 (Image Captioning 알고리즘 개발 및 검증, Topic Modeling 알고리즘 개발 및 검증)
-* 작업현장 안전 데이터 사업
-  * Sponsor: Ministry of Science and ICT and National Information Society Agency (NIA); AI학습용 데이터 구축 사업
-  * Date: May. 2021 to Feb. 2022
-  * Role: GNN을 활용한 Scene Graph생성
-* 지능형 사물 에너지 (iEoT) 반도체 시스템 융합 다빈치형 인력양성 [[Link]](http://ieot.cau.ac.kr/main.do)
-  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 시스템반도체 융합전문인력 육성사업
-  * Date: Sep. 2021 to Current
-  * Role: 반도체 관련 수업 수강
-* 광학 위성 영상 Labeling Dataset 구축
-  * Sponsor: Korea Aerospace Research Institute (KARI); 항공우주연구원; 연구용역사업
-  * Date: Sep. 2021 to Nov. 2021
-  * Role: Semantic Segmentation Labeling 진행
-* 소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발 [[Link]](http://bumo.or.kr/bbs/board.php?bo_table=B41&wr_id=783&view_branch=&meCounse=)
-  * Sponser: Ministry of Culture, Sports and Tourism; 문화체육관광부; 디지털치료교육 플랫폼 개발 연구 사업
-  * Date: Mar. 2022 to Dec. 2023
-  * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
-* 실증 공항환경 단일 카메라 영상에 강인한 사람 식별 및 추적 핵심 기술 개발
-  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 관세행정 현장 맞춤형 기술개발 사업
-  * Date: Apr. 2022 to Dec. 2023
-  * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
-* Neural Journalism: 빅데이터와 딥러닝 기반 차세대 저널리즘 연구
-  * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 우수신진연구
-  * Date: Mar. 2022 to Current
-  * Role: 개인화된 뉴스 요약 알고리즘 개발
+* 건설작업장 안전 방해물 검출 시스템
+  * Sponsor: National Research Foundation of Korea (NRF) and National IT Industry Promotion Agency (NIPA); 일반공동 연구지원사업
+  * Performance: 2 Publications (Under Review)
+  * Date: Mar. 2019 to Feb. 2021
+  * Role: YOLACT를 활용한 건설현장 Semantic Segmentation 및 CycleGAN을 활용한 Data Augmentation
+* 인공지능을 활용한 다문화가정 언어교육 [[Code]](https://github.com/fhzh123/cft_text)
+  * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
+  * Date: Jul. 2019 to Feb. 2020
+  * Role: 어린이들의 언어 수준 파악 알고리즘 개발 및 언어 교육 내용 시각화
+* Korean Historical Document Translation and Analysis [[News]](https://www.job-post.co.kr/news/articleView.html?idxno=19302)
+  * Sponsor: BrainKorea21(BK21); Cross Functional Team (CFT) Project
+  * Performance: 2 Publications and 2 Domestic Publications
+  * Date: Mar. 2019 to Feb. 2021
+  * Role: Transformer기반의 Multi-task learning을 활용한 신경망 기계 번역 모델 개발 및 고도화
 
 # 🏆 Award
 * [총장상] Best Paper Award, 2023 한국 전자 공학회, "한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)"
