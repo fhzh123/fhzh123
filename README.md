@@ -60,7 +60,7 @@
   * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 관세행정 현장 맞춤형 기술개발 사업
   * Date: Apr. 2022 to Dec. 2023
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
- * 소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발 [[Link]](http://bumo.or.kr/bbs/board.php?bo_table=B41&wr_id=783&view_branch=&meCounse=)
+* 소통약자의 소통능력 및 사회성 증진을 위한 음악활동 기반의 기능성 콘텐츠 플랫폼 개발 [[Link]](http://bumo.or.kr/bbs/board.php?bo_table=B41&wr_id=783&view_branch=&meCounse=)
   * Sponser: Ministry of Culture, Sports and Tourism; 문화체육관광부; 디지털치료교육 플랫폼 개발 연구 사업
   * Date: Mar. 2022 to Dec. 2023
   * Role: 데이터 전처리 및 모델 코드 관련 자문 진행
