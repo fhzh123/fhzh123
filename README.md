@@ -53,6 +53,10 @@
 * **KyoHoon Jin**, KyeongPil Kang, YunSung Cho and YoungBin Kim "통계적 구문분석과 Attention기반 심층 신경망을 통한 조선왕조실록 기계번역 (Machine Translation of the Annals of the Joseon Dynasty via the Statistical Parsing and Attention-based Deep Neural Network)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763306)
 
 # 📊 Projects
+* RAG 기반의 AI 대화형 질의응답 시스템
+  * Sponsor: (주)URP; 연구용역과제
+  * Date: Jun. 2024 to Current
+  * Role: RAG 기반의 대화형 부동산 법률 질의응답시스템 개발
 * Neural Journalism: 빅데이터와 딥러닝 기반 차세대 저널리즘 연구
   * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 우수신진연구
   * Date: Mar. 2022 to Current
