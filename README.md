@@ -7,6 +7,8 @@
 
 # 📜 Publications
 ## 🌏 International Publications
+* Juhwan Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation”, The 2024 Conference on Empirical Methods in Natural Language Processing" (EMNLP 2024)
+* Seunguk Yu, Yeonghwa Kim, **Kyohoon Jin** and Youngbin Kim "ETA: Enriching Typos Automatically from Real-World Corpora for Few-Shot Learning" 2024 International Conference On Consumer Electronics Asia (ICCE-Asia)
 * **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangmin Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]](https://arxiv.org/abs/2403.15512)
 * Juhwan Choi, **Kyohoon Jin**, Junho Lee, Sangmin Song and Youngbin Kim "AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes", 2024 European Chapter of the Association for Computational Linguistics (EACL) Student Research Workshop [[Link]](https://openreview.net/forum?id=ZxqJT-EerBe)
 * Juhwan Choi, Eunju Lee, **Kyohoon Jin** and Youngbin Kim "GPTs Are Multilingual Annotators for Sequence Generation Tasks", 2024 European Chapter of the Association for Computational Linguistics (EACL) Findings [[Link]](https://aclanthology.org/2024.findings-eacl.2/)
