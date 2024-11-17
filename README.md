@@ -7,6 +7,7 @@
 
 # 📜 Publications
 ## 🌏 International Publications
+* **Kyohoon Jin**, Sejin Paik, Jungmin Yun, Soojin Jang and Youngbin Kim "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames" 2024 IEEE ACCESS 
 * Sangmin Song, Juhyoung Park, Juhwan Choi, Junho Lee, **Kyohoon Jin** and Youngbin Kim "Korean Football In-game Conversation State Tracking Dataset for Dialogue and Turn Level Evaluation", 2024 Engineering Applications of Artificial Intelligence (EAAI)
 * Juhwan Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation”, The 2024 Conference on Empirical Methods in Natural Language Processing" (EMNLP 2024)
 * Seunguk Yu, Yeonghwa Kim, **Kyohoon Jin** and Youngbin Kim "ETA: Enriching Typos Automatically from Real-World Corpora for Few-Shot Learning" 2024 International Conference On Consumer Electronics Asia (ICCE-Asia)
