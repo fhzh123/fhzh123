@@ -1,9 +1,9 @@
 <!-- [![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123&show_icons=ture&theme=dracula)](https://github.com/fhzh123/fhzh123) -->
 # Hi there 👋
-- I'm currentrly working on Department of Image Science and Arts, Chung-Ang University Intelligent Information Processing Lab. (IIPL)
-- I'm currently learning Natural Language Processing
-- My interest is Neural Machine Translation, Language Modeling and Text Augmentation.
-- Ask me about fhzh@naver.com or fhzh123@cau.ac.kr or fhzh12345@gmail.com
+- I'm currentrly working on Selectstar as an AI Researcher and Engineer, focusing on knowledge-connection and RAG evaluation system.
+- I received both my M.S. and Ph.D. degrees from the Department of Image Science and Arts at Chung-Ang University.
+- My interest is RAG system, knowledge-connection and Text Augmentation.
+- Ask me about kyohoon.jin@selectstar.ai
 
 # 📜 Publications
 ## 🌏 International Publications
