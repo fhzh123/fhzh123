@@ -1,12 +1,12 @@
 <!-- [![fhzh123's github stats](https://github-readme-stats.vercel.app/api?username=fhzh123&show_icons=ture&theme=dracula)](https://github.com/fhzh123/fhzh123) -->
-# Hi there 👋
+# Glad to meet you 👋
 - I'm currentrly working on Selectstar as an AI Researcher and Engineer, focusing on knowledge-connection and RAG evaluation system.
 - I received both my M.S. and Ph.D. degrees from the Department of Image Science and Arts at Chung-Ang University.
 - My interest is RAG system, knowledge-connection and Text Augmentation.
 - Ask me about kyohoon.jin@selectstar.ai
 
 # 📜 Publications
-## 🌏 International Publications
+## 🌏 International Publications (국제 저널 및 학회)
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples" [[Link]](https://openreview.net/forum?id=07qKvpJOsb)
 * JungMin Yun, Juhwan Choi, **Kyohoon Jin**, Soojin Jang and YoungBin Kim "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System" [[Link]](https://aaai.org/conference/aaai/aaai-25/demonstration-program/)
 * **Kyohoon Jin**, Sejin Paik, Jungmin Yun, Soojin Jang and Youngbin Kim "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames" 2024 IEEE ACCESS  [[Link]](https://ieeexplore.ieee.org/document/10766499)
@@ -34,7 +34,7 @@
 * Yuchul Shin, Jaewon Kim, **Kyohoon Jin** and Youngbin Kim, "Playtesting in Match 3 Game Using Strategic Plays via Reinforcement Learning", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9034187)
 * Soojin Jang, **Kyohoon Jin**, Junhyeok An and Youngbin Kim, "Regional Patch-Based Feature Interpolation Method for Effective Regularization", 2020 IEEE Access [[Link]](https://ieeexplore.ieee.org/document/9000503) [[Code]](https://github.com/tnwls6865/regularization)
 
-## 🇰🇷 Domestic Publications
+## 🇰🇷 Domestic Publications (국내 저널 및 학회)
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "앙상블 기법을 활용한 NLP의 잘못된 상관관계 감소 통합 접근법 (Unified Approach for Spurious Correlation Reduction in NLP via Ensemble Techniques)", KICS Summer Conference 2024
 * Kyeonghyun Kim, Yeonghwa Kim, **Kyohoon Jin** and Youngbin Kim "Con-RAG: 기여도 기반 검색 필요성 분석을 통한 효율적인 검색 증강 생성 (Con-RAG: Contribution-based Analysis of Retrieval Necessity for Efficient Retrieval Augmentation Generation)", 2024 Summer Annual Conference of IEIE
 * **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangmin Song, Soojin Jang and Youngbin Kim "텍스트 분류를 위한 Wasserstein Autoencoder를 활용한 생성적 데이터 증강 (Generative Data Augmentation for Text Classification using Wasserstein Autoencoder)", KICS Winter Conference 2024 [[Link]](https://conf.kics.or.kr/program)
@@ -59,6 +59,12 @@
 * **KyoHoon Jin**, KyeongPil Kang, YunSung Cho and YoungBin Kim "통계적 구문분석과 Attention기반 심층 신경망을 통한 조선왕조실록 기계번역 (Machine Translation of the Annals of the Joseon Dynasty via the Statistical Parsing and Attention-based Deep Neural Network)", 2019 Korea Computer Congress (KCC) [[Link]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763306)
 
 # 📊 Projects
+## 🏢 Main Projects
+* RAG 평가용 데이터셋 합성 기술 연구
+  * Sponsor: 셀렉트스타
+  * Date: Mar. 2025 to Current
+  * Role: (파트장) RAG모델 평가를 위한 난이도별 평가 데이터셋 합성 기술 연구
+## :school: Industry-academia Project (산학 프로젝트)
 * RAG 기반의 AI 대화형 질의응답 시스템
   * Sponsor: (주)URP; 연구용역과제
   * Date: Jun. 2024 to Current
