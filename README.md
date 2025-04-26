@@ -61,10 +61,14 @@
 
 # 📊 Projects
 ## 🏢 Main Projects
+* 도메인 특화 연결 문서 데이터베이스 구축 기술
+  * Sponsor: 셀렉트스타
+  * Date: Mar. 2025 to Current
+  * Role: 멀티청크-멀티홉 데이터 생성을 위한 특정 도메인에 특화된 문서간 연결 기술 개발
 * RAG 평가용 데이터셋 합성 기술 연구
   * Sponsor: 셀렉트스타
   * Date: Mar. 2025 to Current
-  * Role: (파트장) RAG모델 평가를 위한 난이도별 평가 데이터셋 합성 기술 연구
+  * Role: RAG모델 평가를 위한 난이도별 평가 데이터셋 합성 기술 연구
 ## :school: Industry-academia Project (산학 프로젝트)
 * RAG 기반의 AI 대화형 질의응답 시스템
   * Sponsor: (주)URP; 연구용역과제
