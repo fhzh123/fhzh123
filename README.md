@@ -7,6 +7,7 @@
 
 # 📜 Publications
 ## 🌏 International Publications (국제 저널 및 학회)
+* Jeongsoo Lee, Daeyong Kwon, **Kyohoon Jin**, Junnyeong Jeong, Minwoo Sim and Minwoo Kim "MHTS: Multi-Hop Tree Structure Framework for Generating Difficulty-Controllable QA Datasets for RAG Evaluation" [[Link]](https://arxiv.org/abs/2504.08756)
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples" [[Link]](https://openreview.net/forum?id=07qKvpJOsb)
 * JungMin Yun, Juhwan Choi, **Kyohoon Jin**, Soojin Jang and YoungBin Kim "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System" [[Link]](https://aaai.org/conference/aaai/aaai-25/demonstration-program/)
 * **Kyohoon Jin**, Sejin Paik, Jungmin Yun, Soojin Jang and Youngbin Kim "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames" 2024 IEEE ACCESS  [[Link]](https://ieeexplore.ieee.org/document/10766499)
