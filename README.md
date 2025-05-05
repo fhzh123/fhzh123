@@ -134,6 +134,17 @@
 * [우수상] 제3회 경기 빅데이터 활용분석 경진대회, 경기콘텐츠진흥원, "SNS와 날씨정보를 활용한 자살예측 알고리즘 개발"
 * [장려상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠진흥원, "공공기관의 API를 활용한 교통혼잡률 예측 시스템" [[Link]](https://www.ajunews.com/view/20170628142927684)
 
+# :loudspeaker: Lecture
+* 멀티 에이전트 AI의 기술적 진보와 최신 연구 동향
+  * 이화여대 데이터사이언스 대학원 세미나
+  * Date: Mar. 2025 to Current
+* 이미지와 자연어처리 코딩 실습
+  * 중앙대학교 공과대학 학부생 수업
+  * Date: Sep. 2024 to Feb. 2025
+* AI 핵심동향
+  * 군AI 교육지원사업
+  * Date: Jan. 2023 to Feb. 2023
+
 # 🆚 Competitions
 * "모션 키포인트 검출 AI 경진대회" (Dacon) 21th/156team (Top 14%) [[Link]](https://dacon.io/competitions/official/235701/leaderboard/)
 * "제2회 컴퓨터 비전 학습 경진대회" (Dacon) 8th/215team (Top 4%) [[Link]](https://dacon.io/competitions/official/235697/overview/description)
