@@ -7,9 +7,10 @@
 
 # 📜 Publications
 ## 🌏 International Publications (국제 저널 및 학회)
+* Kyeonghyun Kim, Jinhee Jang, Juhwan Choi, Yoonji Lee, **Kyohoon Jin**, YoungBin Kim "Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models" The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) [[Link]]()
 * Jeongsoo Lee, Daeyong Kwon, **Kyohoon Jin**, Junnyeong Jeong, Minwoo Sim and Minwoo Kim "MHTS: Multi-Hop Tree Structure Framework for Generating Difficulty-Controllable QA Datasets for RAG Evaluation" [[Link]](https://arxiv.org/abs/2504.08756)
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples" [[Link]](https://openreview.net/forum?id=07qKvpJOsb)
-* JungMin Yun, Juhwan Choi, **Kyohoon Jin**, Soojin Jang and YoungBin Kim "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System" [[Link]](https://aaai.org/conference/aaai/aaai-25/demonstration-program/)
+* JungMin Yun, Juhwan Choi, **Kyohoon Jin**, Soojin Jang and YoungBin Kim "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System" 39th Annual AAAI Conference on Artificial Intelligence (AAAI) Demonstration [[Link]](https://aaai.org/conference/aaai/aaai-25/demonstration-program/)
 * **Kyohoon Jin**, Sejin Paik, Jungmin Yun, Soojin Jang and Youngbin Kim "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames" 2024 IEEE ACCESS  [[Link]](https://ieeexplore.ieee.org/document/10766499)
 * Sangmin Song, Juhyoung Park, Juhwan Choi, Junho Lee, **Kyohoon Jin** and Youngbin Kim "Korean Football In-game Conversation State Tracking Dataset for Dialogue and Turn Level Evaluation", 2024 Engineering Applications of Artificial Intelligence (EAAI) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017305)
 * Juhwan Choi, Jungmin Yun, **Kyohoon Jin** and Youngbin Kim "Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation”, The 2024 Conference on Empirical Methods in Natural Language Processing" (EMNLP 2024) [[Link]](https://aclanthology.org/2024.emnlp-main.2/)
