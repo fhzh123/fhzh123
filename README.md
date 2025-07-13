@@ -7,7 +7,8 @@
 
 # 📜 Publications
 ## 🌏 International Publications (국제 저널 및 학회)
-* Kyeonghyun Kim, Jinhee Jang, Juhwan Choi, Yoonji Lee, **Kyohoon Jin**, YoungBin Kim "Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models" The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) [[Link]]()
+* Jeongsoo Lee, Daeyong Kwon and **Kyohoon Jin** "GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation" [[Link]](https://openreview.net/forum?id=qhEFnBasFp)
+* Kyeonghyun Kim, Jinhee Jang, Juhwan Choi, Yoonji Lee, **Kyohoon Jin** and YoungBin Kim "Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models" The 63rd Annual Meeting of the Association for Computational Linguistics (ACL) [[Link]]()
 * Jeongsoo Lee, Daeyong Kwon, **Kyohoon Jin**, Junnyeong Jeong, Minwoo Sim and Minwoo Kim "MHTS: Multi-Hop Tree Structure Framework for Generating Difficulty-Controllable QA Datasets for RAG Evaluation" [[Link]](https://arxiv.org/abs/2504.08756)
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples" [[Link]](https://openreview.net/forum?id=07qKvpJOsb)
 * JungMin Yun, Juhwan Choi, **Kyohoon Jin**, Soojin Jang and YoungBin Kim "SummPilot: Bridging Efficiency and Customization for Interactive Summarization System" 39th Annual AAAI Conference on Artificial Intelligence (AAAI) Demonstration [[Link]](https://aaai.org/conference/aaai/aaai-25/demonstration-program/)
@@ -62,6 +63,10 @@
 
 # 📊 Projects
 ## 🏢 Main Projects
+* 정형 데이터 분석 파이프라인 개발 및 Q-A셋 생성
+  * Sponsor: 셀렉트스타 & 삼성생명
+  * Date: Jun. 2025 to Current
+  * Role: LLM을 활용한 정형 데이터 자동 분석을 위한 에이전트 시스템 구축 및 관련 백본 모델 학습을 위한 데이터셋 생성
 * 도메인 특화 연결 문서 데이터베이스 구축 기술
   * Sponsor: 셀렉트스타
   * Date: Mar. 2025 to Current
@@ -135,10 +140,13 @@
 * [우수상] 제3회 경기 빅데이터 활용분석 경진대회, 경기콘텐츠진흥원, "SNS와 날씨정보를 활용한 자살예측 알고리즘 개발"
 * [장려상] 제3회 경기 빅데이터 아이디어 공모전, 경기콘텐츠진흥원, "공공기관의 API를 활용한 교통혼잡률 예측 시스템" [[Link]](https://www.ajunews.com/view/20170628142927684)
 
-# :loudspeaker: Lecture
+# :loudspeaker: Lecture & Seminar
+* 2025년도 IT21 글로벌 컨퍼런스
+  * 한국정보처리학회 Zero-shot 기반 지능형 에이전트 선별과제 및 기술동향 세션
+  * Date: Jul. 2025
 * 멀티 에이전트 AI의 기술적 진보와 최신 연구 동향
   * 이화여대 데이터사이언스 대학원 세미나
-  * Date: Mar. 2025 to Current
+  * Date: Mar. 2025 to Jun. 2025
 * 이미지와 자연어처리 코딩 실습
   * 중앙대학교 공과대학 학부생 수업
   * Date: Sep. 2024 to Feb. 2025
