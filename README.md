@@ -84,10 +84,6 @@
   * Role: RAG모델 평가를 위한 난이도별 평가 데이터셋 합성 기술 연구
 
 ## :school: Industry-academia Project (산학 프로젝트)
-* RAG 기반의 AI 대화형 질의응답 시스템
-  * Sponsor: (주)URP; 연구용역과제
-  * Date: Jun. 2024 to Dec. 2024
-  * Role: RAG 기반의 대화형 부동산 법률 질의응답시스템 개발
 * Neural Journalism: 빅데이터와 딥러닝 기반 차세대 저널리즘 연구
   * Sponsor: Ministry of Science and ICT; 과학기술정보통신부; 우수신진연구
   * Date: Mar. 2022 to Feb. 2025
