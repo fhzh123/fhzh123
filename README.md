@@ -8,8 +8,8 @@
 # 📜 Publications
 ## 🌏 International Publications (국제 저널 및 학회)
 ### 👨‍🔬 Lead Author & Corresponding Author
-* Jeongsoo Lee, Daeyong Kwon and **Kyohoon Jin** "GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation" [[Link]](https://openreview.net/forum?id=qhEFnBasFp)
-* **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples" [[Link]](https://openreview.net/forum?id=07qKvpJOsb)
+* **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) [[Link]](https://openreview.net/forum?id=07qKvpJOsb)
+* Jeongsoo Lee, Daeyong Kwon and **Kyohoon Jin** "GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings [[Link]](https://openreview.net/forum?id=qhEFnBasFp)
 * **Kyohoon Jin**, Sejin Paik, Jungmin Yun, Soojin Jang and Youngbin Kim "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames" 2024 IEEE ACCESS  [[Link]](https://ieeexplore.ieee.org/document/10766499)
 * **Kyohoon Jin**, Junho Lee, Juhwan Choi, Sangmin Song and Youngbin Kim "Enhancing Effectiveness and Robustness in a Low-Resource Regime via Decision-Boundary-aware Data Augmentation", The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING) [[Link]](https://arxiv.org/abs/2403.15512)
 * **Kyohoon Jin**, Kyungsu Kang, Baekkyun Shin, Junehyoung Kwon, Soojin Jang, Youngnin Kim and Hanguk Ryu "Development of Robust Detector Using The Weather Deep Generative Model For Outdoor Monitoring System", 2023 Expert Systems with Applications (ESWA) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014860)
