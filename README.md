@@ -8,7 +8,7 @@
 # 📜 Publications
 ## 🌏 International Publications (국제 저널 및 학회)
 ### 👨‍🔬 Lead Author & Corresponding Author
-* Changwon Kim, Jaewook Lee, Haeun Min, JunNyeong Jeong, Minwoo Sim, Barom Kang, Kyohoon Jin "KG-Neighbor: Knowledge-Guided Neighborhood Construction for Embedding Visualization", The Twentieth International Conference on Web Search and Data Mining (WSDM) 
+* Changwon Kim, Jaewook Lee, Haeun Min, JunNyeong Jeong, Minwoo Sim, Barom Kang, **Kyohoon Jin** "KG-Neighbor: Knowledge-Guided Neighborhood Construction for Embedding Visualization", The Twentieth International Conference on Web Search and Data Mining (WSDM) 
 * **Kyohoon Jin**, Juhwan Choi, Jungmin Yun, Junho Lee, Soojin Jang and Youngbin Kim "CoBA: Counterbias Text Augmentation for Mitigating Various Spurious Correlations via Semantic Triples", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) [[Link]](https://aclanthology.org/2025.emnlp-main.520/)
 * Jeongsoo Lee, Daeyong Kwon and **Kyohoon Jin** "GRADE: Generating multi-hop QA and fine-gRAined Difficulty matrix for RAG Evaluation", The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings [[Link]](https://aclanthology.org/2025.findings-emnlp.236/)
 * **Kyohoon Jin**, Sejin Paik, Jungmin Yun, Soojin Jang and Youngbin Kim "PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames" 2024 IEEE ACCESS  [[Link]](https://ieeexplore.ieee.org/document/10766499)
